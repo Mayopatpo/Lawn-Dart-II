@@ -20,7 +20,7 @@ Building instructions
 
 4: Superglue the rail guide to the side of the lower body
 
-5: Attach the electronics to the avionics bay (You can use tape, m3 screws, or just plop them in)
+5: Attach the electronics to the avionics bay (You can use tape, m3 screws, or just plop them in. If you want to attach them to the "sled" aka just a vertical plastic plank that you can attach the electronics to)
 
 6: Place the motor into the bottom of the rocket (Into the motor casing at the bottom of the rocket)
 
