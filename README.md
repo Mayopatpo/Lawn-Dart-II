@@ -13,8 +13,12 @@ Inorder to add telmetry to the Lawn Dart II you will need, an Eggtimer Quark kit
 Building instructions
 
 First, print out all the STL files
+
 Second, tie or attach or glue your parachute to your shock cord and attach your shock cord to the little cord hub that your printed
+
 Third, superglue the interal motor casing into the fin side of the lower rocket body WITH THE THICKER TUBE ON TOP!
+
 Forth, superglue the curved side of the cord hub onto the interal side of the lower rocket body (The one with the fins) just above the motor casing
+
 Fifth, Attach the electronics to the avionics bay
 
