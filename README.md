@@ -35,3 +35,5 @@ Building instructions
 11: Insert the av/payload bay ontop of the interstage and insure a tight fit
 
 12: You are ready for launch!
+
+Diagram of parts: <img width="1145" height="582" alt="image" src="https://github.com/user-attachments/assets/00eebda8-1275-44d4-a4e8-8031cde1b424" />
