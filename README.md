@@ -40,3 +40,8 @@ Diagram of parts: <img width="1145" height="582" alt="image" src="https://github
 
 Demo Launch: https://youtube.com/shorts/tRYVDOcP4sQ?feature=share
 
+Top Payload/Av-bay section with parachute and interstage attached: <img width="2320" height="3088" alt="image" src="https://github.com/user-attachments/assets/ace778da-8822-4caa-a758-a331c6c1c71f" />
+
+Lower body of rocket (Motor casing is sticking out due to me not being quick enough while gluing it in ): : <img width="2320" height="3088" alt="image" src="https://github.com/user-attachments/assets/36732871-0b62-4767-a86b-45d392971994" />
+
+Completed rocket: <img width="3088" height="2320" alt="image" src="https://github.com/user-attachments/assets/65842114-465f-4f31-9a93-82fcd39d651c" />
