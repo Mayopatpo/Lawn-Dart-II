@@ -8,7 +8,7 @@ Inorder to build and fly the Lawn Dart II you will need these things: A 3d print
 
 Electronics (optional, don't blame me if you lose $60 dollars worth of on rocket equipment)
 
-Inorder to add telmetry to the Lawn Dart II you will need, an Eggtimer Quark kit, an Eggtimer LCD Handheld Receiver, an Eggtimer Telemetry Module, and a soldering iron + soldering materials.
+Inorder to add telmetry to the Lawn Dart II you will need, an Eggtimer Quark kit, an Eggtimer LCD Handheld Receiver (You can add a voice module to this for easier rocket tracking and it is optional), an Eggtimer Telemetry Module, and a soldering iron + soldering materials.
 
 Building instructions
 
