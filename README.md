@@ -2,7 +2,7 @@ LAWN DART II
 
 Overview:
 
-The Lawn Dart II is a simple, somewhat reliable (Depending on printer tolerances, correct assembly, and/or luck), and fun 26mm model rocket with real time telemetry.
+The Lawn Dart II is a simple, somewhat reliable (Depending on printer tolerances, correct assembly, and/or luck), and fun 26mm model rocket with optional real time telemetry.
 
 Requirements for build:
 
