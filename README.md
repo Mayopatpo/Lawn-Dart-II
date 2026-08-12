@@ -22,7 +22,7 @@ Inorder to build and fly the Lawn Dart II you will need these things: A 3d print
 | Item | Amount | Cost | Link |
 | --- | --- | --- | --- |
 | Eggtimer Telemetry Module, Eggfinder LCD receiver, and Eggtimer Voice Module | 1 | $90 | https://eggtimerrocketry.com/purchase/ |
-| Bambu Labs PETG| 1 | $12.99 | https://us.store.bambulab.com/products/petg-hf |
+| Bambu Labs PETG | 1 | $12.99 | https://us.store.bambulab.com/products/petg-hf |
 
 <div align="center">
  
