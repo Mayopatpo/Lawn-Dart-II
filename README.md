@@ -37,10 +37,9 @@ Inorder to build and fly the Lawn Dart II you will need these things: A 3d print
 10: Insert the interstage into the top of the lower body
 11: Insert the av/payload bay ontop of the interstage and insure a tight fit
 12: You are ready for launch!
-
+ ![Diagram of parts]<img width="1145" height="582" alt="image" src="https://github.com/user-attachments/assets/00eebda8-1275-44d4-a4e8-8031cde1b424" />
 Onshape Link: https://cad.onshape.com/documents/341b35eae35871f704bb2773/w/720c3935b4c7fe6fbe31ec42/e/d5dd41fe161bdb96a66a13c3?renderMode=0&uiState=6a6f18c0bfd606c1a1b334fe
 
-Diagram of parts: <img width="1145" height="582" alt="image" src="https://github.com/user-attachments/assets/00eebda8-1275-44d4-a4e8-8031cde1b424" />
 
 Demo Launch: https://youtube.com/shorts/tRYVDOcP4sQ?feature=share
 
