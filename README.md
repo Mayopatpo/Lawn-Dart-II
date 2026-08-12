@@ -28,7 +28,7 @@ Inorder to build and fly the Lawn Dart II you will need these things: A 3d print
 
 1. print out all the STL files (Extra tube length and av bay holder is optional)
 2. Attach your parachute to the ring on the bottom of the interstage
-3. Superglue the interal motor casing into the fin side of the lower rocket body WITH THE THICKER TUBE ON TOP!
+3. Superglue the interal motor casing into the fin side of the lower rocket body **WITH THE THICKER TAPER ON TOP!**
 4. Superglue the rail guide to the side of the lower body
 5. Attach the electronics to the avionics bay (You can use tape, m3 screws, or just plop them in. If you want to attach them to the "sled" aka just a vertical plastic plank that you can attach the electronics to)
 6. Place the motor into the bottom of the rocket (Into the motor casing at the bottom of the rocket)
@@ -39,13 +39,6 @@ Inorder to build and fly the Lawn Dart II you will need these things: A 3d print
 11. Insert the av/payload bay ontop of the interstage and insure a tight fit
 12. You are ready for launch!
 
-## Assembly Instructions
-
-1. Print out all the STL files.
-2. Attach your parachute to the ring on the bottom of the interstage.
-3. Superglue the internal motor casing into the fin side of the lower rocket body **WITH THE THICKER TUBE ON TOP!**
-4. Superglue the rail guide to the side of the lower body.
-5. Attach the electronics to the avionics bay.
 <div align="center">
 
 # Diagram of parts:
