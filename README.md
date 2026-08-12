@@ -2,7 +2,7 @@
  
 # LAWN DART II
 
-![Uploading Rocket.jpg…]()
+<img width="3024" height="4032" alt="Rocket" src="https://github.com/user-attachments/assets/0df98998-5e92-4ace-be0c-8fab8338bd23" />
 
 </div>
 
