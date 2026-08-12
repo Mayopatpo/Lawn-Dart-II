@@ -12,7 +12,11 @@ The Lawn Dart II is a simple, somewhat reliable (Depending on printer tolerances
  
 </div>
 Inorder to build and fly the Lawn Dart II you will need these things: A 3d printer with a > or = max build height of 180mm and width/length of 145mm, around 80 grams of filament which can be any type (I recommend PETG because it tends to be stronger, withstand weather and dirt better, not catch on fire as much, and not melt as much), a 12-18in diameter parachute, elastic cord to act as parachute cords, superglue, 18mm model rocket motors that are between 80mm and 70mm of height, and launch supplies (engine plug, recovery wadding, fuse, launch controller, launch pad+rod).
-
+| Part | Quantity | Purpose |
+|---|---:|---|
+| ESP32-C3 SuperMini | 1 | Main controller |
+| BMP580 | 1 | Altitude sensor |
+| Battery | 1 | Power |
 <div align="center">
  
 ## Electronics:
