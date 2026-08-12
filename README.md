@@ -39,7 +39,7 @@ Inorder to build and fly the Lawn Dart II you will need these things: A 3d print
 12: You are ready for launch!
 <div align="center">
  
-#Diagram of parts:
+# Diagram of parts:
 
 </div>
 <img width="1145" height="582" alt="image" src="https://github.com/user-attachments/assets/00eebda8-1275-44d4-a4e8-8031cde1b424" />
